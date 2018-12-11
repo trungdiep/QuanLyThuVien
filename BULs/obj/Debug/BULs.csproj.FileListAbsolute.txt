@@ -1,0 +1,77 @@
+C:\Users\Admin\source\repos\QuanLyNhanVien\BULs\obj\Debug\BULs.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyNhanVien\BULs\obj\Debug\BULs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyNhanVien\BULs\bin\Debug\BULs.dll
+C:\Users\Admin\source\repos\QuanLyNhanVien\BULs\bin\Debug\BULs.pdb
+C:\Users\Admin\source\repos\QuanLyNhanVien\BULs\bin\Debug\DALs.dll
+C:\Users\Admin\source\repos\QuanLyNhanVien\BULs\bin\Debug\DTOs.dll
+C:\Users\Admin\source\repos\QuanLyNhanVien\BULs\bin\Debug\DALs.pdb
+C:\Users\Admin\source\repos\QuanLyNhanVien\BULs\bin\Debug\DTOs.pdb
+C:\Users\Admin\source\repos\QuanLyNhanVien\BULs\obj\Debug\BULs.csproj.CopyComplete
+C:\Users\Admin\source\repos\QuanLyNhanVien\BULs\obj\Debug\BULs.dll
+C:\Users\Admin\source\repos\QuanLyNhanVien\BULs\obj\Debug\BULs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\BULs\bin\Debug\BULs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\BULs\bin\Debug\BULs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\BULs\bin\Debug\DALs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\BULs\bin\Debug\DTOs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\BULs\bin\Debug\DALs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\BULs\bin\Debug\DTOs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\BULs\obj\Debug\BULs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\BULs\obj\Debug\BULs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\BULs\obj\Debug\BULs.csproj.CopyComplete
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\BULs\obj\Debug\BULs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\BULs\obj\Debug\BULs.pdb
+D:\Dowloads\New folder\QuanLyThuVien-master\BULs\bin\Debug\BULs.dll
+D:\Dowloads\New folder\QuanLyThuVien-master\BULs\bin\Debug\BULs.pdb
+D:\Dowloads\New folder\QuanLyThuVien-master\BULs\bin\Debug\DALs.dll
+D:\Dowloads\New folder\QuanLyThuVien-master\BULs\bin\Debug\DTOs.dll
+D:\Dowloads\New folder\QuanLyThuVien-master\BULs\bin\Debug\DALs.pdb
+D:\Dowloads\New folder\QuanLyThuVien-master\BULs\bin\Debug\DTOs.pdb
+D:\Dowloads\New folder\QuanLyThuVien-master\BULs\obj\Debug\BULs.csprojAssemblyReference.cache
+D:\Dowloads\New folder\QuanLyThuVien-master\BULs\obj\Debug\BULs.csproj.CoreCompileInputs.cache
+D:\Dowloads\New folder\QuanLyThuVien-master\BULs\obj\Debug\BULs.csproj.CopyComplete
+D:\Dowloads\New folder\QuanLyThuVien-master\BULs\obj\Debug\BULs.dll
+D:\Dowloads\New folder\QuanLyThuVien-master\BULs\obj\Debug\BULs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien-THAI\QuanLyThuVien-master\BULs\bin\Debug\BULs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien-THAI\QuanLyThuVien-master\BULs\bin\Debug\BULs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien-THAI\QuanLyThuVien-master\BULs\bin\Debug\DALs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien-THAI\QuanLyThuVien-master\BULs\bin\Debug\DTOs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien-THAI\QuanLyThuVien-master\BULs\bin\Debug\DALs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien-THAI\QuanLyThuVien-master\BULs\bin\Debug\DTOs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien-THAI\QuanLyThuVien-master\BULs\obj\Debug\BULs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyThuVien-THAI\QuanLyThuVien-master\BULs\obj\Debug\BULs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyThuVien-THAI\QuanLyThuVien-master\BULs\obj\Debug\BULs.csproj.CopyComplete
+C:\Users\Admin\Desktop\QuanLyThuVien-THAI\QuanLyThuVien-master\BULs\obj\Debug\BULs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien-THAI\QuanLyThuVien-master\BULs\obj\Debug\BULs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\BULs\bin\Debug\BULs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien\BULs\bin\Debug\BULs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\BULs\bin\Debug\DALs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien\BULs\bin\Debug\DTOs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien\BULs\bin\Debug\DALs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\BULs\bin\Debug\DTOs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\BULs\obj\Debug\BULs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyThuVien\BULs\obj\Debug\BULs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyThuVien\BULs\obj\Debug\BULs.csproj.CopyComplete
+C:\Users\Admin\Desktop\QuanLyThuVien\BULs\obj\Debug\BULs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien\BULs\obj\Debug\BULs.pdb
+C:\Users\Admin\Desktop\QuanLyNhanVien\BULs\bin\Debug\BULs.dll
+C:\Users\Admin\Desktop\QuanLyNhanVien\BULs\bin\Debug\BULs.pdb
+C:\Users\Admin\Desktop\QuanLyNhanVien\BULs\bin\Debug\DALs.dll
+C:\Users\Admin\Desktop\QuanLyNhanVien\BULs\bin\Debug\DTOs.dll
+C:\Users\Admin\Desktop\QuanLyNhanVien\BULs\bin\Debug\DALs.pdb
+C:\Users\Admin\Desktop\QuanLyNhanVien\BULs\bin\Debug\DTOs.pdb
+C:\Users\Admin\Desktop\QuanLyNhanVien\BULs\obj\Debug\BULs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyNhanVien\BULs\obj\Debug\BULs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyNhanVien\BULs\obj\Debug\BULs.csproj.CopyComplete
+C:\Users\Admin\Desktop\QuanLyNhanVien\BULs\obj\Debug\BULs.dll
+C:\Users\Admin\Desktop\QuanLyNhanVien\BULs\obj\Debug\BULs.pdb
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\BULs\bin\Debug\BULs.dll
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\BULs\bin\Debug\BULs.pdb
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\BULs\bin\Debug\DALs.dll
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\BULs\bin\Debug\DTOs.dll
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\BULs\bin\Debug\DALs.pdb
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\BULs\bin\Debug\DTOs.pdb
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\BULs\obj\Debug\BULs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\BULs\obj\Debug\BULs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\BULs\obj\Debug\BULs.csproj.CopyComplete
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\BULs\obj\Debug\BULs.dll
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\BULs\obj\Debug\BULs.pdb

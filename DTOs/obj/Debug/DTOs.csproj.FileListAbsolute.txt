@@ -1,0 +1,35 @@
+C:\Users\Admin\source\repos\QuanLyNhanVien\DTOs\bin\Debug\DTOs.dll
+C:\Users\Admin\source\repos\QuanLyNhanVien\DTOs\bin\Debug\DTOs.pdb
+C:\Users\Admin\source\repos\QuanLyNhanVien\DTOs\obj\Debug\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyNhanVien\DTOs\obj\Debug\DTOs.dll
+C:\Users\Admin\source\repos\QuanLyNhanVien\DTOs\obj\Debug\DTOs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\DTOs\bin\Debug\DTOs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\DTOs\bin\Debug\DTOs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\DTOs\obj\Debug\DTOs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\DTOs\obj\Debug\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\DTOs\obj\Debug\DTOs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\DTOs\obj\Debug\DTOs.pdb
+D:\Dowloads\New folder\QuanLyThuVien-master\DTOs\bin\Debug\DTOs.dll
+D:\Dowloads\New folder\QuanLyThuVien-master\DTOs\bin\Debug\DTOs.pdb
+D:\Dowloads\New folder\QuanLyThuVien-master\DTOs\obj\Debug\DTOs.csprojAssemblyReference.cache
+D:\Dowloads\New folder\QuanLyThuVien-master\DTOs\obj\Debug\DTOs.csproj.CoreCompileInputs.cache
+D:\Dowloads\New folder\QuanLyThuVien-master\DTOs\obj\Debug\DTOs.dll
+D:\Dowloads\New folder\QuanLyThuVien-master\DTOs\obj\Debug\DTOs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\DTOs\bin\Debug\DTOs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien\DTOs\bin\Debug\DTOs.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\DTOs\obj\Debug\DTOs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyThuVien\DTOs\obj\Debug\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyThuVien\DTOs\obj\Debug\DTOs.dll
+C:\Users\Admin\Desktop\QuanLyThuVien\DTOs\obj\Debug\DTOs.pdb
+C:\Users\Admin\Desktop\QuanLyNhanVien\DTOs\bin\Debug\DTOs.dll
+C:\Users\Admin\Desktop\QuanLyNhanVien\DTOs\bin\Debug\DTOs.pdb
+C:\Users\Admin\Desktop\QuanLyNhanVien\DTOs\obj\Debug\DTOs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyNhanVien\DTOs\obj\Debug\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyNhanVien\DTOs\obj\Debug\DTOs.dll
+C:\Users\Admin\Desktop\QuanLyNhanVien\DTOs\obj\Debug\DTOs.pdb
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\DTOs\bin\Debug\DTOs.dll
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\DTOs\bin\Debug\DTOs.pdb
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\DTOs\obj\Debug\DTOs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\DTOs\obj\Debug\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\DTOs\obj\Debug\DTOs.dll
+C:\Users\Admin\Desktop\QuanLyNhanVien-master\QuanLyNhanVien-master\DTOs\obj\Debug\DTOs.pdb
